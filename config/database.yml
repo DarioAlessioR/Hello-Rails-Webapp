@@ -33,3 +33,4 @@ production:
   <<: *default
   database: Hello-Rails-Webapp_production
   username: postgres
+  password: malela
