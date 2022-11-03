@@ -1,0 +1,23 @@
+{
+  "name": "hello-rails-webapp",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet) # Set up a \"Hello world\" project with two apps",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarioAlessioR/Hello-Rails-Webapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarioAlessioR/Hello-Rails-Webapp/issues"
+  },
+  "homepage": "https://github.com/DarioAlessioR/Hello-Rails-Webapp#readme"
+}
