@@ -3,7 +3,6 @@
 
 Implement a connection between a Ruby on Rails back-end API and React front-end.
 
-
 ## Back-end deployment link
 
 [Heroku Deployment](https://damp-basin-65851.herokuapp.com/api/v1/hello)
@@ -26,11 +25,12 @@ Implement a connection between a Ruby on Rails back-end API and React front-end.
 1. Follow these steps on your console to properly clone this repository on your desktop:
 
 ```
-$ git clone https://github.com/DarioAlessioR/react-frontend.git
+$ git clone https://github.com/DarioAlessioR/Hello-Rails-Webapp
 $ code .
 ```
+2. run bundle install
 
-3. At the command line, run npm start.
+3. At the command line, run rails s.
 
 
 ## Author
